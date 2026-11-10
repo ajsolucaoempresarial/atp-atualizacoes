@@ -1,2 +1,2 @@
-# app-atualizacoes
+# moto-atualizacoes
 Atualizacoes do Assistencia Tecnica Pro (instalador, APK e versao.json)
